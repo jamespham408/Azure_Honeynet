@@ -1,4 +1,4 @@
-# Azure_Sentinel_Honeynet
+# Azure_Sentinel_Honeypot
 Simulating a real world Cyber Attack and Defense in Azure
 
 - Azure Subscription
